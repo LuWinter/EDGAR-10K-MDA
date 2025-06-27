@@ -1,3 +1,7 @@
-activate.sh
+.DS_Store
 .vscode
-__pycache__
+activate.sh
+
+__pycache__/
+batch_test_data/
+test_data/
